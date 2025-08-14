@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <title>Tropicália</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https
+://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -42,18 +43,16 @@
             </div>
         </section>
 
-        <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
-            <div class="container d-flex align-items-center ">
-                  <div class="col-5">
-                    <h2>O que foi a Tropicália?</h2>
-                    <p class="p-2">A Tropicália, também conhecida como Tropicalismo, foi um movimento cultural
-                        brasileiro que surgiu na década de 1960, tendo seu auge entre 1967 e 1968. Esse movimento
-                        abrangeu várias expressões artísticas, como a música, o cinema, o teatro e as artes plásticas, e
-                        teve como principal característica a mistura de elementos da cultura brasileira tradicional com
-                        influências estrangeiras, especialmente do rock e da música pop.</p>
-                </div>
-            </div>
-        </section>
+        <section id="anime" class="my-5 pt-6 secao-anime">
+    <div class="container d-flex align-items-center">
+        <div class="col-5">
+            <h2>O que é o Anime?</h2>
+            <p class="p-2">O anime é uma forma de animação originária do Japão, que se caracteriza por sua estética única e por abordar uma grande diversidade de temas, desde ação e aventura até romances e dramas psicológicos. O termo "anime" é uma abreviação da palavra "animação" no Japão, mas, fora do país, é utilizado para se referir a animações feitas no estilo japonês.</p>
+            <p class="p-2">O anime ganhou popularidade mundial a partir da década de 1990, especialmente com séries como "Dragon Ball", "Naruto" e "Pokémon", e continua sendo uma das formas de entretenimento mais influentes da cultura pop global. Além das séries, o anime também inclui filmes, OVAs (animes em formato de vídeo) e mangás (quadrinhos japoneses), que frequentemente compartilham personagens e histórias.</p>
+        </div>
+    </div>
+</section>
+
 
         <section id="galeria">
             <h2 class="text-center pt-5">Galeria</h2>
